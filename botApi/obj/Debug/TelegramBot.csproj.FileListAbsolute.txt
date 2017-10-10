@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\TelegramBot.exe.config
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\TelegramBot.exe
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\fcdf131.Form1.resources
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\TelegramBot.Properties.Resources.resources
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\TelegramBot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\TelegramBot.exe
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\TelegramBot.exe.config
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\TelegramBot.exe
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\fcdf131.Form1.resources
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\TelegramBot.Properties.Resources.resources
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\obj\Debug\TelegramBot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\TelegramBot.exe
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\Develope\телеграм бот\fcdf131\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\obj\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\bin\Debug\TelegramBot.dll
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\bin\Debug\TelegramBot.pdb
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\obj\Debug\TelegramBot.Properties.Resources.resources
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\obj\Debug\TelegramBot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Develope\телеграм бот — копия (2)\fcdf131\obj\Debug\TelegramBot.dll
+C:\Users\User\Desktop\Develope\botApi\fcdf131\bin\Debug\botApi.dll
+C:\Users\User\Desktop\Develope\botApi\fcdf131\bin\Debug\botApi.pdb
+C:\Users\User\Desktop\Develope\botApi\fcdf131\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Develope\botApi\fcdf131\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\Develope\botApi\fcdf131\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Develope\botApi\fcdf131\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Develope\botApi\fcdf131\obj\Debug\botApi.Properties.Resources.resources
+C:\Users\User\Desktop\Develope\botApi\fcdf131\obj\Debug\TelegramBot.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Develope\botApi\fcdf131\obj\Debug\botApi.dll
+C:\Users\User\Desktop\Develope\botApi\fcdf131\obj\Debug\botApi.pdb

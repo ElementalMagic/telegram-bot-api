@@ -1,0 +1,28 @@
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\fcdf131.exe.config
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.csprojResolveAssemblyReference.cache
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.Form1.resources
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.Properties.Resources.resources
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.csproj.GenerateResource.Cache
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\fcdf131.exe
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\fcdf131.pdb
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\Newtonsoft.Json.dll
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\Telegram.Bot.dll
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\bin\Debug\Newtonsoft.Json.xml
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.exe
+c:\users\el\documents\visual studio 2015\Projects\fcdf131\fcdf131\obj\Debug\fcdf131.pdb
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\fcdf131.exe.config
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.exe
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.pdb
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\fcdf131.exe
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\fcdf131.pdb
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\Telegram.Bot.dll
+C:\Users\User\Desktop\fcdf131\fcdf131\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.Form1.resources
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.Properties.Resources.resources
+C:\Users\User\Desktop\fcdf131\fcdf131\obj\Debug\fcdf131.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\fcdf131.exe.config
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\fcdf131.exe
+C:\Users\User\Desktop\телеграм бот\fcdf131\obj\Debug\fcdf131.pdb
+C:\Users\User\Desktop\телеграм бот\fcdf131\bin\Debug\TelegramBot.exe.config
