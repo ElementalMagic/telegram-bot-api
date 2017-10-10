@@ -1,2 +1,2 @@
 # telegramBotApi
-## Please, read .doc file, witch located in project dir.
+## Please, read .doc file, which located in project dir.
